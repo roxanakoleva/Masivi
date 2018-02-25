@@ -11,7 +11,7 @@ int main()
     {
         for(int j=0;j<10;j++)
         {
-            a[i][j]=rand()%201 -101;
+            a[i][j]=rand()%301 -201;
         }
     }
 
